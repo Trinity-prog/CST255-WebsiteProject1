@@ -95,4 +95,12 @@ footer {
 	margin-top: 30px;
 	border-topp: 5px solid #4f86c6;
 }
+.citation {
+	text-align: center;
+	font-size: 0.9em;
+	font-style: italic;
+	color: #555;
+	margin-top: -10px;
+	margin-bottom: 20px;
+}
 
